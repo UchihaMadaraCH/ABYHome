@@ -1,0 +1,394 @@
+{
+	"ret": true,
+	"data": {
+		"swiperList": [
+			{
+				"id": "001",
+				"text1":"48 小时踏青玩个够",
+				"text2":"领取礼券 扑向春天",
+                "text3":"挑个周末逃离恒温都市，让初春叫醒你",     
+				"imgUrl": "https://z1.muscache.cn/pictures/55a5bf2f-99fc-4a62-96de-8e3235353466.jpg"
+			}, {
+				"id": "002",
+				"text1":"在花香与暖阳里",
+				"text2":"发现国内赏花目的地",
+                "text3":"趁着好天气，与明媚的春日来张同框合影",
+				"imgUrl": "https://z1.muscache.cn/pictures/b42cd76b-edec-4f88-8dfe-3f20933c7a60.jpg"
+			}, {
+				"id": "003",
+				"text1":"五月北海道",
+				"text2":"自由自在 悠然赏樱",
+                "text3":"抓住樱花季的尾巴，特色民宿等你选",
+				"imgUrl": "https://z1.muscache.cn/pictures/30c10f87-af4b-45e5-8b6d-1a95c88fd5dd.jpg"
+			}
+		],
+		"gathered":[
+		   {
+		   	"id": "001",
+		   	"imgUrl": "https://z1.muscache.cn/im/pictures/02dd941d-3d35-4e84-94e2-0449403a65b3.jpg?aki_policy=large",
+		   	"text1":"整套公寓 · 2张床",
+		   	"text2":"长租特惠【洛夫te】11号线南山站近海岸城/来福士广场/深圳湾口岸/春茧体育场舒适经典loft",
+		   	"text3":"￥520 每晚",
+		   	"text4":"210.超赞房东"
+		   	
+		   },
+		    {
+		   	"id": "002",
+		   	"imgUrl": "https://z1.muscache.cn/im/pictures/cfccdff3-d50a-4921-9037-aee8441c2a19.jpg?aki_policy=large",
+		   	"text1":"整套公寓 · 1张床",
+		   	"text2":"【律雅】近解放碑/洪崖洞+落地窗观朝天门+临轻轨站+赏江景的家",
+		   	"text3":"￥221 每晚",
+		   	"text4":"57"
+		   	
+		   },
+		    {
+		   	"id": "003",
+		   	"imgUrl": "https://z1.muscache.cn/im/pictures/f6eabe3f-1744-4074-b5f2-8f9c8ff558cf.jpg?aki_policy=large",
+		   	"text1":"整套公寓 · 1张床",
+		   	"text2":"【择一DESIGN】步行3分钟地铁站/1.8*2米大床/近九街､观音桥/地铁直达洪崖洞解放碑长江索道",
+		   	"text3":"￥134 每晚",
+		   	"text4":"72"
+		   	
+		   },  
+		   {
+		   	"id": "004",
+		   	"imgUrl": "https://z1.muscache.cn/im/pictures/855ecf55-c37b-4cd2-8dc5-60af360da702.jpg?aki_policy=large",
+		   	"text1":"整套公寓 · 1张床",
+		   	"text2":"【上山•贰俩】洪崖洞旁 解放碑中心 高层落地窗江景房",
+		   	"text3":"￥174 每晚",
+		   	"text4":"320.超赞房东"
+		   	
+		   },
+		    {
+		   	"id": "005",
+		   	"imgUrl": "https://z1.muscache.cn/im/pictures/d1589441-6ff1-4fae-a5de-057abf348c4c.jpg?aki_policy=large",
+		   	"text1":"整套公寓 · 1张床",
+		   	"text2":"【大可楽家-V】两晚以上可免费接机!南滨路上180度无敌江景房,带投影仪,近解放碑,洪崖洞,地铁站",
+		   	"text3":"￥130 每晚",
+		   	"text4":"89.超赞房东"
+		   	
+		   },
+		    {
+		   	"id": "006",
+		   	"imgUrl": "https://z1.muscache.cn/im/pictures/ed93fc59-6f80-4b08-8da8-9fb4e4856cf6.jpg?aki_policy=large",
+		   	"text1":"整套公寓 · 1张床",
+		   	"text2":"【小红书推荐款】｢花生·空间01｣洪崖洞/步行街/小吃街/江景落地窗/地铁/ins1居室DT26",
+		   	"text3":"￥216 每晚",
+		   	"text4":"67.超赞房东"
+		   	
+		   }
+		],
+		"Sites": {
+			"A": [
+				{
+					"id": 1,
+					"site": "北京"
+				}, {
+					"id": 2,
+					"site": "北京"
+				}, {
+					"id": 3,
+					"site": "成都"
+				}, {
+					"id": 4,
+					"site": "重庆"
+				}, {
+					"id": 5,
+					"site": "杭州"
+				}, {
+					"id": 6,
+					"site": "厦门"
+				}, {
+					"id": 7,
+					"site": "广州"
+				}, {
+					"id": 8,
+					"site": "西安"
+				}
+			],
+			"B": [
+				{
+					"id": 1,
+					"site": "大阪"
+				}, {
+					"id": 2,
+					"site": "东京"
+				}, {
+					"id": 3,
+					"site": "台北"
+				}, {
+					"id": 4,
+					"site": "香港"
+				}, {
+					"id": 5,
+					"site": "京都"
+				}, {
+					"id": 6,
+					"site": "曼谷"
+				}, {
+					"id": 7,
+					"site": "首尔"
+				}, {
+					"id": 8,
+					"site": "清迈"
+				}
+			],
+			"C": [
+				{
+					"id": 1,
+					"site": "深圳"
+				}, {
+					"id": 2,
+					"site": "南京"
+				}, {
+					"id": 3,
+					"site": "武汉"
+				}, {
+					"id": 4,
+					"site": "长沙"
+				}, {
+					"id": 5,
+					"site": "苏州"
+				}, {
+					"id": 6,
+					"site": "吉隆坡"
+				}, {
+					"id": 7,
+					"site": "宁波"
+				}, {
+					"id": 8,
+					"site": "福州"
+				}
+			]
+		},
+		"hot":{
+			"title":[
+			{
+				"h2":"春季出行灵感集"
+			}
+			     
+			],
+			"bar":[
+			  {
+			  	"id": "001",
+			    "images": "https://z1.muscache.cn/im/pictures/3b14f0f8-77aa-4b79-af2b-7a631f91a845.jpg?aki_policy=large",
+			    "text1":"国内赏花目的地推荐",
+			    "text2":"在春天里闻花香，听风来，晒太阳",
+			    "text3":"别让春暖花开成为只在照片上见过的风景。我们精选了 6 个国内赏花地，在这里你可以扑向春天，沉浸在大自然间，感受生机。"
+			  },
+			    {
+			  	"id": "002",
+			    "images": "https://z1.muscache.cn/im/pictures/1e4b4764-05d1-4425-9e26-3279a62f5c00.jpg?aki_policy=large",
+			    "text1":"赏樱目的地推荐",
+			    "text2":"避开人潮，来九州探索自然乐趣",
+			    "text3":"这里有悠久的历史，也有电影中的乡野景色。泡温泉，赏樱花，亲近自然，放松一下吧。"
+			  },
+			  {
+			  	"id": "003",
+			    "images": "https://z1.muscache.cn/im/pictures/610bc35c-382a-4f72-a72a-6bdb14cc0d57.jpg?aki_policy=large",
+			    "text1":"赏樱目的地推荐",
+			    "text2":"去北海道，抓住樱花季的尾巴",
+			    "text3":"4 月底，北海道春天才刚刚到来。不必匆忙追赶樱前线，悠然享受冰雪溶化后生机盎然的北方岛屿。"
+			  }
+			]
+		},
+		"classics":[
+			  {
+			  	"id": "001",
+			    "images": "https://z1.muscache.cn/airbnb/static/china_p1_redesign/HongKong-d2a0c673c4e1a28dbb7f6f0fddf38c32.jpg",
+			    "text1":"香港  亚洲美食之都",
+			    "text2":"人均￥440/晚"
+			  },
+			   {
+			  	"id": "002",
+			    "images": "https://z1.muscache.cn/airbnb/static/china_p1_redesign/optimized/Chiang-Mai-0c02e1fa3f13340df4e366004db7a7c7.jpg",
+			    "text1":"清迈  泰国最文艺小城",
+			    "text2":"人均￥168/晚"
+			  },
+			  {
+			  	"id": "003",
+			    "images": "https://z1.muscache.cn/airbnb/static/china_p1_redesign/optimized/London-19c5702c00785c96a626e3989e0a3461.jpg",
+			    "text1":"伦敦  感受英伦风情",
+			    "text2":"人均￥354/晚"
+			  },
+			   {
+			  	"id": "004",
+			    "images": "https://z1.muscache.cn/airbnb/static/china_p1_redesign/optimized/Phuket-237db8c73af4ec081e69c3d0571b2a51.jpg",
+			    "text1":"普吉岛  东南亚看海",
+			    "text2":"人均￥360/晚"
+			  },
+			  {
+			  	"id": "005",
+			    "images": "https://z1.muscache.cn/airbnb/static/china_p1_redesign/optimized/Los-Angeles-b59e4b468916be8f5295c1491252f752.jpg",
+			    "text1":"洛杉矶  好莱坞式繁华",
+			    "text2":"人均￥445/晚"
+			  },
+			  {
+			  	"id": "006",
+			    "images": "https://z1.muscache.cn/airbnb/static/china_p1_redesign/optimized/Bali-380c5db84250a6207a0fca6c24e34349.jpg",
+			    "text1":"巴厘岛  度蜜月的首选",
+			    "text2":"人均￥396/晚"
+			  }
+		],
+		"Travel":[
+			  {
+			  	"id": "001",
+			    "images": "https://z1.muscache.cn/im/pictures/35c44717-a1ac-4dd9-a87b-8686365d9635.jpg?aki_policy=x_large",
+			    "btn":"房源",
+			    "location":"大理",
+			    "title":"苍山脚下的小木屋 | 我们在狂野的瀑布里冰镇过一个瓜",
+			    "userImg":"https://z1.muscache.cn/im/pictures/161bf084-d242-4f87-b920-c06a3c63aff4.jpg?aki_policy=profile_tiny",
+			    "praise":"30",
+			    "info":"7"
+			  },
+			   {
+			  	"id": "002",
+			    "images": "https://z1.muscache.cn/im/pictures/d64ae73f-8a50-4157-a616-1fad3f2b7697.jpg?aki_policy=x_large_portrait",
+			    "btn":"房源",
+			    "location":"南京",
+			    "title":"躺在南京的1935年做了一场梦",
+			    "userImg":"https://z1.muscache.cn/im/pictures/user/a8c8de44-7084-4ca4-ab17-b29b44eb7006.jpg?aki_policy=profile_tiny",
+			    "praise":"45",
+			    "info":"15"
+			  },
+			  {
+			  	"id": "003",
+			    "images": "https://z1.muscache.cn/im/pictures/c17d7492-2601-4229-8ce1-76862a7fa78b.jpg?aki_policy=x_large_portrait",
+			    "btn":"房源",
+			    "location":"清迈",
+			    "title":"pai tree house - 翻越720道弯来睡你",
+			    "userImg":"https://z1.muscache.cn/im/users/41807563/profile_pic/1439903612/original.jpg?aki_policy=profile_tiny",
+			    "praise":"108",
+			    "info":"1"
+			  },
+			  {
+			  	"id": "005",
+			    "images": "https://z1.muscache.cn/im/pictures/7412fb6f-b19c-4dd7-9862-5cf2ce95274e.jpg?aki_policy=x_large_portrait",
+			    "btn":"房源",
+			    "location":"京都",
+			    "title":"当你住进这间百年老宅 便住进了日本文化的精神故乡",
+			    "userImg":"https://z1.muscache.cn/im/pictures/user/75b89b6a-a20e-447d-99eb-783cd90f845e.jpg?aki_policy=profile_tiny",
+			    "praise":"35",
+			    "info":"9"
+			  },
+			  {
+			  	"id": "006",
+			    "images": "https://z1.muscache.cn/im/pictures/e3f56ef3-3035-424a-a66e-9e726771800a.jpg?aki_policy=x_large_portrait",
+			    "btn":"活动",
+			    "location":"杭州",
+			    "title":"就为了绿窗和复古小车，也要去这家咖啡馆坐一坐",
+			    "userImg":"https://z1.muscache.cn/im/pictures/39348f93-d67a-4ee0-9758-44e24fe33e88.jpg?aki_policy=profile_tiny",
+			    "praise":"28",
+			    "info":"3"
+			  },
+			   {
+			  	"id": "007",
+			    "images": "https://z1.muscache.cn/im/pictures/3b32f311-f50a-4eed-810d-c23652babe35.jpg?aki_policy=x_large_portrait",
+			    "btn":"景点",
+			    "location":"东京",
+			    "title":"东京樱花季避开人海？来这里就对了！",
+			    "userImg":"https://z1.muscache.cn/im/pictures/user/6ff72055-649a-4fd7-ab87-434ef76057b8.jpg?aki_policy=profile_tiny",
+			    "praise":"50",
+			    "info":"6"
+			  },
+			  {
+			  	"id": "008",
+			    "images": "https://z1.muscache.cn/im/pictures/a3299d91-df74-48c8-bd23-029f878c8caf.jpg?aki_policy=x_large_portrait",
+			    "btn":"美食",
+			    "location ":"曼谷",
+			    "title":"钻进艺术社区，泰国时髦星人喜欢的Roast！",
+			    "userImg":"https://z1.muscache.cn/im/pictures/user/ca303b19-48d9-4286-a5f9-a020dcf69ea9.jpg?aki_policy=profile_tiny",
+			    "praise":"180",
+			    "info":"4"
+			  },
+			   {
+			  	"id": "009",
+			    "images": "https://z1.muscache.cn/im/pictures/5833019a-a481-4be0-88c2-7903686b882c.jpg?aki_policy=x_large",
+			    "btn":"文化",
+			    "location":"纽约",
+			    "title":"The Oculus｜曾经的废墟上屹立而起的白色飞鸽",
+			    "userImg":"https://z1.muscache.cn/im/pictures/user/868e5444-e368-40d0-9e15-5ca0f7284fb2.jpg?aki_policy=profile_tiny",
+			    "praise":"145",
+			    "info":"7"
+			  }
+		],
+		"Mark":[
+		   {
+		   	"id": "001",
+		   	"imgUrl": "https://a0.muscache.com/im/pictures/0ffcf55d-57f2-4cce-99fc-05fa845e2bf8.jpg?aki_policy=large",
+		   	"text1":"文化漫步 · Hong Kong Island North",
+		   	"text2":"登太平山顶看维多利亚海港夜景",
+		   	"text3":"每人￥194",
+		   	"text4":"4.92",
+		   	"text5":"(305)"
+		   	
+		   },
+		    {
+		   	"id": "002",
+		   	"imgUrl": "https://a0.muscache.com/im/pictures/8523faca-1641-4c6e-9649-1299ea2461e4.jpg?aki_policy=large",
+		   	"text1":"一日游 · 波尔图",
+		   	"text2":"Douro Valley - Palace, Winery & Boat",
+		   	"text3":"每人￥981",
+		   	"text4":"4.97",
+		   	"text5":"(149)"
+		   	
+		   },
+		    {
+		   	"id": "003",
+		   	"imgUrl": "https://a0.muscache.com/im/pictures/cadcf779-9b0d-48eb-91f1-8c2af20b52f0.jpg?aki_policy=large",
+		   	"text1":"户外运动 · 巴厘岛",
+		   	"text2":"Slide, jump, swim in 5 Bali waterfalls",
+		   	"text3":"每人￥293",
+		   	"text4":"4.98",
+		   	"text5":"(63)"
+		   	
+		   },  
+		   {
+		   	"id": "004",
+		   	"imgUrl": "https://a0.muscache.com/im/pictures/e27f3089-e46b-4b4a-90d2-060a9a518cef.jpg?aki_policy=large",
+		   	"text1":"乘船游览 · 波多黎各",
+		   	"text2":"Sail San Juan Bay Daytime Sailing",
+		   	"text3":"每人￥408",
+		   	"text4":"4.91",
+		   	"text5":"(172)"
+		   	
+		   },
+		    {
+		   	"id": "005",
+		   	"imgUrl": "https://a0.muscache.com/im/pictures/37293b7b-74f6-4492-934e-2cdac8b9239c.jpg?aki_policy=large",
+		   	"text1":"徒步 · 马拉喀什",
+		   	"text2":"Atlas Mountains & Camel ride, day trip",
+		   	"text3":"每人￥144",
+		   	"text4":"89.超赞房东"
+		   	
+		   },
+		    {
+		   	"id": "006",
+		   	"imgUrl": "https://a0.muscache.com/im/pictures/b0ac6ad1-7239-4dc7-b25f-3e9e73a8ede3.jpg?aki_policy=large",
+		   	"text1":"参观葡萄园 · 罗马",
+		   	"text2":"Visit a 16th-century artisanal winery",
+		   	"text3":"每人￥432",
+		   	"text4":"4.91",
+		   	"text5":"514"
+		   },
+		    {
+		   	"id": "007",
+		   	"imgUrl": "https://a0.muscache.com/im/pictures/1ce60af9-257d-4fba-acd7-915b9a0a0542.jpg?aki_policy=large",
+		   	"text1":"乘坐飞机 · 洛杉矶",
+		   	"text2":"Learn to fly a plane above Los Angeles",
+		   	"text3":"每人￥898",
+		   	"text4":"4.96",
+		   	"text5":"604"
+		   },
+		   {
+		   	"id": "008",
+		   	"imgUrl": "https://a0.muscache.com/im/pictures/856f36e8-6697-4b78-8d2c-ef48693fc77f.jpg?aki_policy=large",
+		   	"text1":"骑车游览 · 曼谷",
+		   	"text2":"超赞体验：隐秘曼谷骑行美食之旅",
+		   	"text3":"每人￥327",
+		   	"text4":"4.98",
+		   	"text5":"1043"
+		   }
+		]
+	}
+}
